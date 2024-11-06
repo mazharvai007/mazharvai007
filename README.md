@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mazharul Islam
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mazharul Islam
 ======================================================================================================================================
 
-Back-end Focus Front-Developer || React/NextJs Developer
+Back-end Focus Front-Developer
 --------------------------------------------
 
 I am a self-motivated web developer with hands-on experience in JavaScript, React, Next.js, Tailwind CSS, MUI, and Bootstrap. Additionally, I have expertise in PHP, WordPress, Joomla, and Technical Support. I specialize in creating dynamic, responsive websites and applications. I am passionate about learning new technologies and continuously improving my coding skills. With strong problem-solving abilities and a keen eye for detail, I am eager to contribute to a collaborative team environment and deliver high-quality web solutions.
